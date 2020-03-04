@@ -1,0 +1,12 @@
+/build
+/dist
+/__pycache__
+*.jpg
+*.png
+*.bmp
+*.gif
+*.exe
+*.spec
+*.mp4
+*.url
+*.zip
